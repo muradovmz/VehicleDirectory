@@ -1,0 +1,78 @@
+[
+  {
+    "ModelNameGE": "ცლ",
+    "ModelNameEN": "CL",
+    "ManufacturerId": 1
+  },
+  {
+    "ModelNameGE": "ცსხ",
+    "ModelNameEN": "CSX",
+    "ManufacturerId": 1
+  },
+  {
+    "ModelNameGE": "ელ",
+    "ModelNameEN": "EL",
+    "ManufacturerId": 1
+  },
+  {
+    "ModelNameGE": "ალფასუდ",
+    "ModelNameEN": "Alfasud",
+    "ManufacturerId": 2
+  },
+  {
+    "ModelNameGE": "ალფესტა",
+    "ModelNameEN": "Alfetta",
+    "ManufacturerId": 2
+  },
+  {
+    "ModelNameGE": "არნა",
+    "ModelNameEN": "Arna",
+    "ManufacturerId": 2
+  },
+  {
+    "ModelNameGE": "ლაგონდა",
+    "ModelNameEN": "Lagonda",
+    "ManufacturerId": 3
+  },
+  {
+    "ModelNameGE": "რაპიდე",
+    "ModelNameEN": "Rapide",
+    "ManufacturerId": 3,
+    "ModelTypeId": 2
+  },
+  {
+    "ModelNameGE": "ვირაჟე",
+    "ModelNameEN": "Virage",
+    "ManufacturerId": 3
+  },
+  {
+    "ModelNameGE": "ა4",
+    "ModelNameEN": "A4",
+    "ManufacturerId": 4
+  },
+  {
+    "ModelNameGE": "ა5",
+    "ModelNameEN": "A5",
+    "ManufacturerId": 4
+  },
+  {
+    "ModelNameGE": "ა6",
+    "ModelNameEN": "A6",
+    "ManufacturerId": 4
+  },
+  {
+    "ModelNameGE": "არნაჟე",
+    "ModelNameEN": "Arnage",
+    "ManufacturerId": 5
+  },
+  {
+    "ModelNameGE": "აზურე",
+    "ModelNameEN": "Azure",
+    "ManufacturerId": 5
+  },
+  {
+    "ModelNameGE": "ბენტაიგა",
+    "ModelNameEN": "Bentayga",
+    "ManufacturerId": 5
+  }
+]

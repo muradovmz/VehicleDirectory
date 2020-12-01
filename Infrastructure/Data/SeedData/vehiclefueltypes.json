@@ -1,0 +1,70 @@
+[
+  {
+    "VehicleId": 1,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 2,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 3,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 4,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 5,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 6,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 7,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 8,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 9,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 10,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 11,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 12,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 13,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 14,
+    "FuelTypeId": 2
+  },
+  {
+    "VehicleId": 1,
+    "FuelTypeId": 5
+  },
+  {
+    "VehicleId": 2,
+    "FuelTypeId": 5
+  },
+  {
+    "VehicleId": 3,
+    "FuelTypeId": 5
+  }
+]

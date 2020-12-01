@@ -1,0 +1,70 @@
+[
+  {
+    "VehicleId": 1,
+    "OwnerId": 1
+  },
+  {
+    "VehicleId": 2,
+    "OwnerId": 2
+  },
+  {
+    "VehicleId": 3,
+    "OwnerId": 3
+  },
+  {
+    "VehicleId": 4,
+    "OwnerId": 4
+  },
+  {
+    "VehicleId": 5,
+    "OwnerId": 5
+  },
+  {
+    "VehicleId": 6,
+    "OwnerId": 6
+  },
+  {
+    "VehicleId": 7,
+    "OwnerId": 7
+  },
+  {
+    "VehicleId": 8,
+    "OwnerId": 8
+  },
+  {
+    "VehicleId": 9,
+    "OwnerId": 9
+  },
+  {
+    "VehicleId": 10,
+    "OwnerId": 10
+  },
+  {
+    "VehicleId": 11,
+    "OwnerId": 11
+  },
+  {
+    "VehicleId": 12,
+    "OwnerId": 12
+  },
+  {
+    "VehicleId": 13,
+    "OwnerId": 13
+  },
+  {
+    "VehicleId": 14,
+    "OwnerId": 7
+  },
+  {
+    "VehicleId": 1,
+    "OwnerId": 5
+  },
+  {
+    "VehicleId": 2,
+    "OwnerId": 6
+  },
+  {
+    "VehicleId": 3,
+    "OwnerId": 7
+  }
+]
